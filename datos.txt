@@ -1,0 +1,5 @@
+{'id': 2, 'id_user_id': 1, 
+'id_tipo_inmueble_id': 2, 
+'id_comuna_id': 316, 
+'id_region_id': 16, 
+'nombre_inmueble': 'Departamento en Arriendo en Providencia 2 dormitorios 2 ba�os / Inmobiliaria Focus E.I.R.L', 'descripcion': 'Living-comedor - Cocina americana - 2 Dormitorios (Principal en suite y ventanas termopanel) - 2 Ba�os - $680.000', 'm2_construido': 52.0, 'numero_banos': 2, 'numero_hab': 0, 'direccion': 'Padre Mariano 356', 'm2_terreno': 54.0, 'numero_est': 1}

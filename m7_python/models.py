@@ -31,8 +31,10 @@ class Inmuebles(models.Model):
     id_region = models.ForeignKey('m7_python.Region', on_delete=models.CASCADE, null=True)
     nombre_inmueble = models.TextField()
     descripcion = models.CharField(max_length=200)
-    m2_contruido = models.FloatField()
+    m2_construido = models.FloatField()
     numero_banos = models.IntegerField(default=0)
     numero_hab = models.IntegerField(default=0)
     direccion = models.CharField(max_length=200)
+    m2_terreno = models.FloatField(default=0)
+    numero_est = models.IntegerField(default=0)
 # Create your models here.
